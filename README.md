@@ -55,6 +55,8 @@ Global-Company-Layoffs-Analysis/
 
 ```
 
+--- 
+
 ## Key Insights
 
 - **Industry trends**: Identify industries with sudden year-over-year layoffs spikes.  
