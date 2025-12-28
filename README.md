@@ -35,6 +35,28 @@ The analysis provides actionable insights on:
 
 ---
 
+
+## Project Structure
+
+```text
+Global-Company-Layoffs-Analysis/
+│
+├── data/
+│   └── layoffs_raw.csv              # Original raw dataset
+│
+├── sql/
+│   ├── 01_raw.sql                   # Raw data import & staging
+│   ├── 02_deduplication.sql         # Remove duplicates using ROW_NUMBER()
+│   ├── 03_data_cleaning.sql         # Data cleaning & standardization
+│   └── 04_exploration.sql           # Exploratory data analysis & insights
+│
+└── README.md                        # Project documentation
+
+
+```
+
+---
+
 ## Key Insights
 
 - **Industry trends**: Identify industries with sudden year-over-year layoffs spikes.  
