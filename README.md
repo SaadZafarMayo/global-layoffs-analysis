@@ -79,6 +79,17 @@ Global-Company-Layoffs-Analysis/
 
 ---
 
+
+
+## Future Improvements
+- Add Python (Pandas) for deeper analysis
+- Build dashboards (Tableau / Power BI)
+- Enrich data with macroeconomic indicators
+
+
+---
+
+
 ## How to Run
 
 1. Open your SQL environment (MySQL Workbench, DataGrip, etc.).  
