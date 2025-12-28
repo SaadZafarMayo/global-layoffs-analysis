@@ -38,7 +38,7 @@ The analysis provides actionable insights on:
 
 ## Project Structure
 
-```text
+
 Global-Company-Layoffs-Analysis/
 │
 ├── data/
