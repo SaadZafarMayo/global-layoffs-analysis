@@ -53,8 +53,7 @@ Global-Company-Layoffs-Analysis/
 └── README.md                        # Project documentation
 
 
-
----
+```
 
 ## Key Insights
 
